@@ -1,0 +1,31 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.orange-coller{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.flaxible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+#padding{
+    padding-left: 40px;
+}
+.link-batton{
+    text-decoration: none;
+    background-image: linear-gradient( orange,tomato);
+    padding: 20px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+   
+}
+
