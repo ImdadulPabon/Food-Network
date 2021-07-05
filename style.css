@@ -9,23 +9,32 @@ h1{
 }
 .flaxible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
 }
-.half-width img{
-    width: 80%;
+#first-image{
+    width: 70%;
+}
+#second-image{
+    width: 40%;
+    padding-left: 100px;
 }
 #padding{
     padding-left: 40px;
 }
 .link-batton{
     text-decoration: none;
-    background-image: linear-gradient( orange,tomato);
+    background-image: linear-gradient(orange, tomato);
     padding: 20px 40px;
     border-radius: 50px;
     color: white;
     font-weight: 700;
    
+}
+#background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
 
