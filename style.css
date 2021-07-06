@@ -37,4 +37,29 @@ h1{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
-
+.show-mid{
+    text-align: center;
+}
+.recipie-aria{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin-left:2%;
+    margin-right: 2%;
+    padding-left: 40px;
+    padding-top: 40px;
+    border-radius: 20px;
+    
+}
+.recipie-aria img{
+    width: 90%;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+}
+.footer-font{
+    color: white;
+}
+    
