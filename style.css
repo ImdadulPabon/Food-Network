@@ -4,6 +4,13 @@ body{
 .orange-coller{
     color: orange;
 }
+#welcome{
+    text-align: center;
+    color:orange;
+}
+hr{
+    color: orange;
+}
 h1{
     font-size: 50px;
 }
@@ -13,6 +20,7 @@ h1{
 }
 .half-width{
     width: 50%;
+    padding-left: 200px;
 }
 #first-image{
     width: 70%;
